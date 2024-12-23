@@ -1,6 +1,6 @@
 # Questões
 
-**Número da Lista**: X<br>
+**Número da Lista**: 64<br>
 **Conteúdo da Disciplina**: Dividir e Conquistar
 
 ## Alunos
