@@ -10,13 +10,16 @@
 | 221007814  |  André Emanuel Bispo da Silva |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Para esse trabalho realizamos três questões do leet code sendo duas delas difíceis e uma média. Todas as questões realizadas estavam dentro do tópico dividir e conquistar.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+[315](resultado-315.png)
+
+[775](resultado-775.png)
+
+[1569](resultado-1569.png)
+
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
