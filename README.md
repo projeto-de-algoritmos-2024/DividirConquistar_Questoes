@@ -14,11 +14,11 @@ Para esse trabalho realizamos três questões do leet code sendo duas delas dif�
 
 ## Screenshots
 
-[315](resultado-315.png)
+![315](resultado-315.png)
 
-[775](resultado-775.png)
+![775](resultado-775.png)
 
-[1569](resultado-1569.png)
+![1569](resultado-1569.png)
 
 
 ## Outros 
